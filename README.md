@@ -9,9 +9,8 @@ This is the code repository for the paper:
 >
 > **[[arXiv]](https://arxiv.org/abs/2504.09518)** **[[Paper with Code]](https://paperswithcode.com/paper/3d-coca-contrastive-learners-are-3d)** **[[HF Paper]](https://huggingface.co/papers/2504.09518)**
 
-<center class='img'>
-![image](https://github.com/AIGeeksGroup/3DCoCa/blob/main/image1.png)
-</center>
+![image](https://github.com/AIGeeksGroup/MediAug/blob/main/arch.png)
+
 
 ## Citation
 
