@@ -2,9 +2,9 @@
 This is the code repository for the paper:
 > **MediAug: Exploring Visual Augmentation in Medical Imaging**
 >
-> Xuyin Qi\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)\*†, Canxuan Gang\*, Hao Zhang, Lei Zhang, Zhiwei Zhang, and [Yang Zhao](https://yangyangkiki.github.io/)\**
+> Xuyin Qi\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)\*<sup>†</sup>, Canxuan Gang\*, Hao Zhang, Lei Zhang, Zhiwei Zhang, and [Yang Zhao](https://yangyangkiki.github.io/)<sup>#</sup>
 >
-> \*Equal contribution. †Project lead. \**Corresponding author
+> \*Equal contribution. <sup>†</sup>Project lead. <sup>#</sup>Corresponding author.
 >
 >
 > **[[arXiv]](https://arxiv.org/abs/2504.09518)** **[[Paper with Code]](https://paperswithcode.com/paper/3d-coca-contrastive-learners-are-3d)** **[[HF Paper]](https://huggingface.co/papers/2504.09518)**
