@@ -16,7 +16,12 @@ This is the code repository for the paper:
 
 If you use any content of this repo for your work, please cite the following our paper:
 ```
-
+@article{qi2025mediaug,
+  title={MediAug: Exploring Visual Augmentation in Medical Imaging},
+  author={Qi, Xuyin and Zhang, Zeyu and Gang, Canxuan and Zhang, Hao and Zhang, Lei and Zhang, Zhiwei and Zhao, Yang},
+  journal={arXiv preprint arXiv:2504.18983},
+  year={2025}
+}
 ```
 
 ## Introduction
