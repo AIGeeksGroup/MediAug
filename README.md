@@ -7,7 +7,7 @@ This is the code repository for the paper:
 > \*Equal contribution. <sup>†</sup>Project lead. <sup>#</sup>Corresponding author.
 >
 >
-> **[[arXiv]](https://arxiv.org/abs/2504.09518)** **[[Paper with Code]](https://paperswithcode.com/paper/3d-coca-contrastive-learners-are-3d)** **[[HF Paper]](https://huggingface.co/papers/2504.09518)**
+> **[[arXiv]](https://www.arxiv.org/abs/2504.18983)** **[[Paper with Code]](https://paperswithcode.com/paper/mediaug-exploring-visual-augmentation-in)** **[[HF Paper]](https://huggingface.co/papers/2504.18983)**
 
 ![image](https://github.com/AIGeeksGroup/MediAug/blob/main/arch.png)
 
