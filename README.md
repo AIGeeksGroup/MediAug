@@ -31,3 +31,6 @@ Data augmentation is essential in medical imaging for improving classification a
   <img src="https://github.com/AIGeeksGroup/MediAug/blob/main/6_methods.png" width="49%" />
   <img src="https://github.com/AIGeeksGroup/MediAug/blob/main/brain.png" width="49%" />
 </p>
+
+##
+A comprehensive resource list of visual augmentation is available at https://github.com/AIGeeksGroup/MediAug/blob/main/DA.md.
