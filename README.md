@@ -6,6 +6,7 @@ This is the code repository for the paper:
 >
 > \*Equal contribution. <sup>†</sup>Project lead. <sup>#</sup>Corresponding author.
 >
+> ***MIUA 2025***
 >
 > **[[arXiv]](https://www.arxiv.org/abs/2504.18983)** **[[Paper with Code]](https://paperswithcode.com/paper/mediaug-exploring-visual-augmentation-in)** **[[HF Paper]](https://huggingface.co/papers/2504.18983)**
 
