@@ -60,6 +60,14 @@ We use two publicly available medical imaging datasets hosted on Kaggle. In our 
 * Balanced dataset
 * Random split: 80% train / 20% test
 
+<p float="left">
+  <img src="https://github.com/AIGeeksGroup/MediAug/blob/main/eye_disease.jpg" width="49%" />
+  <img src="https://github.com/AIGeeksGroup/MediAug/blob/main/eye_tsne.jpg" width="49%" />
+</p>
+
+
+The left pie chart shows the class distribution across the four categories, demonstrating good class balance. The right t-SNE plot provides a feature-level visualization of the high-dimensional distribution of eye disease samples after dimensionality reduction.
+
 ### 🧠 Brain Tumor MRI Classification (Grayscale)
 
 * **URL**: [https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri/data](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri/data)
