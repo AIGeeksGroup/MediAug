@@ -242,66 +242,30 @@ The following notebooks train and evaluate models used in our experiments:
 
 The following notebooks apply batch augmentation and visualization on the full **Brain MRI** dataset:
 
-* `AugMix_brain.ipynb`: Applies AugMix to the entire brain dataset and visualizes a batch of augmented images. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/AugMix_brain.ipynb)
-* `CropMix_brain.ipynb`: Performs CropMix augmentation across the brain dataset with comparative visualization. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/CropMix_brain.ipynb)
-* `CutMix_brain.ipynb`: Shows CutMix applied to MRI samples in batch for augmentation analysis. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/CutMix_brain.ipynb)
-* `MixUp_brain.ipynb`: Executes MixUp over MRI images and plots combined outputs. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/MixUp_brain.ipynb)
-* `SnapMix_brain.ipynb`: Demonstrates CAM-based SnapMix on brain images at dataset level. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/SnapMix_brain.ipynb)
-* `YOCO_brain.ipynb`: Applies YOCO to a batch of brain samples and shows spatially mixed results. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/YOCO_brain.ipynb)
+* `AugMix_brain.ipynb`: Applies AugMix to the entire brain dataset and visualizes a batch of augmented images. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/Image%20Augmentation%20Code/Image%20augment%20batch%20processing%20code/brain/AugMix_brain.ipynb)
+* `CropMix_brain.ipynb`: Performs CropMix augmentation across the brain dataset with comparative visualization. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/Image%20Augmentation%20Code/Image%20augment%20batch%20processing%20code/brain/CropMix_brain.ipynb)
+* `CutMix_brain.ipynb`: Shows CutMix applied to MRI samples in batch for augmentation analysis. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/Image%20Augmentation%20Code/Image%20augment%20batch%20processing%20code/brain/CutMix_brain.ipynb)
+* `MixUp_brain.ipynb`: Executes MixUp over MRI images and plots combined outputs. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/Image%20Augmentation%20Code/Image%20augment%20batch%20processing%20code/brain/MixUp_brain.ipynb)
+* `SnapMix_brain.ipynb`: Demonstrates CAM-based SnapMix on brain images at dataset level. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/Image%20Augmentation%20Code/Image%20augment%20batch%20processing%20code/brain/SnapMix_brain.ipynb)
+* `YOCO_brain.ipynb`: Applies YOCO to a batch of brain samples and shows spatially mixed results. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/Image%20Augmentation%20Code/Image%20augment%20batch%20processing%20code/brain/YOCO_brain.ipynb)
 
 The following notebooks apply batch augmentation and visualization on the full **Eye Disease** dataset:
 
-* `AugMix_eye.ipynb`: Applies AugMix on the entire eye disease dataset with visual comparisons. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/AugMix_eye.ipynb)
-* `CropMix_eye.ipynb`: Runs CropMix augmentation over eye images and displays batched transformations. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/CropMix_eye.ipynb)
-* `CutMix_eye.ipynb`: Demonstrates CutMix applied to eye fundus images with batch-level visualization. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/CutMix_eye.ipynb)
-* `MixUp_eye.ipynb`: Mixes image-label pairs from the eye dataset and renders visual effects. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/MixUp_eye.ipynb)
-* `SnapMix_eye.ipynb`: Showcases SnapMix on eye disease samples with semantic-preserving augmentation. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/SnapMix_eye.ipynb)
-* `YOCO_eye.ipynb`: Uses YOCO to enhance eye data samples with region-wise mixed transforms. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/YOCO_eye.ipynb)
+* `AugMix_eye.ipynb`: Applies AugMix on the entire eye disease dataset with visual comparisons. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/Image%20Augmentation%20Code/Image%20augment%20batch%20processing%20code/eye/AugMix_eye.ipynb)
+* `CropMix_eye.ipynb`: Runs CropMix augmentation over eye images and displays batched transformations. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/Image%20Augmentation%20Code/Image%20augment%20batch%20processing%20code/eye/CropMix_eye.ipynb)
+* `CutMix_eye.ipynb`: Demonstrates CutMix applied to eye fundus images with batch-level visualization. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/Image%20Augmentation%20Code/Image%20augment%20batch%20processing%20code/eye/CutMix_eye.ipynb)
+* `MixUp_eye.ipynb`: Mixes image-label pairs from the eye dataset and renders visual effects. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/Image%20Augmentation%20Code/Image%20augment%20batch%20processing%20code/eye/MixUp_eye.ipynb)
+* `SnapMix_eye.ipynb`: Showcases SnapMix on eye disease samples with semantic-preserving augmentation. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/Image%20Augmentation%20Code/Image%20augment%20batch%20processing%20code/eye/SnapMix_eye.ipynb)
+* `YOCO_eye.ipynb`: Uses YOCO to enhance eye data samples with region-wise mixed transforms. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/Image%20Augmentation%20Code/Image%20augment%20batch%20processing%20code/eye/YOCO_eye.ipynb)
 
 The following notebooks demonstrate how each augmentation method is applied to a single medical image:
 
-* `AugMix_for_single_picture.ipynb`: Applies AugMix transformations step-by-step to one image and visualizes the results. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/AugMix_for_single_picture.ipynb)
-* `CropMix_for_single_picture.ipynb`: Demonstrates the CropMix augmentation process with visualization on a single image. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/CropMix_for_single_picture.ipynb)
-* `CutMix_for_single_picture.ipynb`: Simulates CutMix augmentation by mixing image patches and overlays on one image. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/CutMix_for_single_picture.ipynb)
-* `MixUp_for_single_picture.ipynb`: Shows how MixUp blends two images and labels, visualized clearly. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/MixUp_for_single_picture.ipynb)
-* `SnapMix_for_single_picture.ipynb`: Explains SnapMix strategy by combining semantic patches with attention maps. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/SnapMix_for_single_picture.ipynb)
-* `YOCO_for_single_picture.ipynb`: Visualizes YOCO's patch-wise mixed local augmentations on a single image. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/YOCO_for_single_picture.ipynb)
-
-The following notebooks apply batch augmentation and visualization on the full **Brain MRI** dataset:
-
-* `AugMix_brain.ipynb`: Applies AugMix to the entire brain dataset and visualizes a batch of augmented images. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/AugMix_brain.ipynb)
-* `CropMix_brain.ipynb`: Performs CropMix augmentation across the brain dataset with comparative visualization. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/CropMix_brain.ipynb)
-* `CutMix_brain.ipynb`: Shows CutMix applied to MRI samples in batch for augmentation analysis. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/CutMix_brain.ipynb)
-* `MixUp_brain.ipynb`: Executes MixUp over MRI images and plots combined outputs. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/MixUp_brain.ipynb)
-* `SnapMix_brain.ipynb`: Demonstrates CAM-based SnapMix on brain images at dataset level. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/SnapMix_brain.ipynb)
-* `YOCO_brain.ipynb`: Applies YOCO to a batch of brain samples and shows spatially mixed results. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/YOCO_brain.ipynb)
-
-The following notebooks apply batch augmentation and visualization on the full **Eye Disease** dataset:
-
-* `AugMix_eye.ipynb`: Applies AugMix on the entire eye disease dataset with visual comparisons. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/AugMix_eye.ipynb)
-* `CropMix_eye.ipynb`: Runs CropMix augmentation over eye images and displays batched transformations. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/CropMix_eye.ipynb)
-* `CutMix_eye.ipynb`: Demonstrates CutMix applied to eye fundus images with batch-level visualization. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/CutMix_eye.ipynb)
-* `MixUp_eye.ipynb`: Mixes image-label pairs from the eye dataset and renders visual effects. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/MixUp_eye.ipynb)
-* `SnapMix_eye.ipynb`: Showcases SnapMix on eye disease samples with semantic-preserving augmentation. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/SnapMix_eye.ipynb)
-* `YOCO_eye.ipynb`: Uses YOCO to enhance eye data samples with region-wise mixed transforms. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/YOCO_eye.ipynb)
-
-The following notebooks apply batch augmentation and visualization on the full **Brain MRI** dataset:
-
-* `AugMix_brain.ipynb`: Applies AugMix to the entire brain dataset and visualizes a batch of augmented images. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/AugMix_brain.ipynb)
-* `CropMix_brain.ipynb`: Performs CropMix augmentation across the brain dataset with comparative visualization. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/CropMix_brain.ipynb)
-* `CutMix_brain.ipynb`: Shows CutMix applied to MRI samples in batch for augmentation analysis. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/CutMix_brain.ipynb)
-* `MixUp_brain.ipynb`: Executes MixUp over MRI images and plots combined outputs. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/MixUp_brain.ipynb)
-* `SnapMix_brain.ipynb`: Demonstrates CAM-based SnapMix on brain images at dataset level. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/SnapMix_brain.ipynb)
-* `YOCO_brain.ipynb`: Applies YOCO to a batch of brain samples and shows spatially mixed results. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/YOCO_brain.ipynb)
-
-The following notebooks demonstrate how each augmentation method is applied to a single medical image:
-
-* `AugMix_for_single_picture.ipynb`: Applies AugMix transformations step-by-step to one image and visualizes the results. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/AugMix_for_single_picture.ipynb)
-* `CropMix_for_single_picture.ipynb`: Demonstrates the CropMix augmentation process with visualization on a single image. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/CropMix_for_single_picture.ipynb)
-* `CutMix_for_single_picture.ipynb`: Simulates CutMix augmentation by mixing image patches and overlays on one image. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/CutMix_for_single_picture.ipynb)
-* `MixUp_for_single_picture.ipynb`: Shows how MixUp blends two images and labels, visualized clearly. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/MixUp_for_single_picture.ipynb)
-* `SnapMix_for_single_picture.ipynb`: Explains SnapMix strategy by combining semantic patches with attention maps. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/SnapMix_for_single_picture.ipynb)
-* `YOCO_for_single_picture.ipynb`: Visualizes YOCO's patch-wise mixed local augmentations on a single image. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/YOCO_for_single_picture.ipynb)
+* `AugMix_for_single_picture.ipynb`: Applies AugMix transformations step-by-step to one image and visualizes the results. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/Image%20Augmentation%20Code/AugMix_for_single_picture.ipynb)
+* `CropMix_for_single_picture.ipynb`: Demonstrates the CropMix augmentation process with visualization on a single image. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/Image%20Augmentation%20Code/CropMix_for_single_picture.ipynb)
+* `CutMix_for_single_picture.ipynb`: Simulates CutMix augmentation by mixing image patches and overlays on one image. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/Image%20Augmentation%20Code/CutMix_for_single_picture.ipynb)
+* `MixUp_for_single_picture.ipynb`: Shows how MixUp blends two images and labels, visualized clearly. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/Image%20Augmentation%20Code/MixUp_for_single_picture.ipynb)
+* `SnapMix_for_single_picture.ipynb`: Explains SnapMix strategy by combining semantic patches with attention maps. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/Image%20Augmentation%20Code/SnapMix_for_single_picture.ipynb)
+* `YOCO_for_single_picture.ipynb`: Visualizes YOCO's patch-wise mixed local augmentations on a single image. [View notebook](https://github.com/AIGeeksGroup/MediAug/blob/main/Image%20Augmentation%20Code/YOCO_for_single_picture.ipynb)
 
 ---
 
