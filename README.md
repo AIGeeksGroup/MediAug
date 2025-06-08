@@ -53,6 +53,49 @@ To use on **Google Colab** or **Kaggle**, enable GPU and configure data mounting
 
 We use two publicly available medical imaging datasets hosted on Kaggle. In our experiments, the datasets were manually uploaded to Google Drive and accessed through Google Colab notebooks, where all training and evaluation were performed with GPU support.
 
+### 🗂️ Dataset Folder Structure
+
+```
+📁 dataset/
+├── 📁 brain/
+│   ├── AugMix_MRI/
+│   ├── CropMix_MRI/
+│   ├── CutMix_MRI/
+│   ├── MixUp_MRI/
+│   ├── Original_MRI/
+│   ├── SnapMix_MRI/
+│   └── YOCO_MRI/
+│       ├── Training/
+│       │   ├── glioma_tumor/
+│       │   ├── meningioma_tumor/
+│       │   ├── no_tumor/
+│       │   └── pituitary_tumor/
+│       └── Testing/
+│           ├── glioma_tumor/
+│           ├── meningioma_tumor/
+│           ├── no_tumor/
+│           └── pituitary_tumor/
+├── 📁 eye/
+│   ├── AugMix_contenteye_diseases_dataset/
+│   ├── CropMix_contenteye_diseases_dataset/
+│   ├── CutMix_contenteye_diseases_dataset/
+│   ├── MixUp_contenteye_diseases_dataset/
+│   ├── Original_contenteye_diseases_dataset/
+│   ├── SnapMix_contenteye_diseases_dataset/
+│   └── YOCO_contenteye_diseases_dataset/
+│       ├── Training/
+│       │   ├── cataract/
+│       │   ├── diabetic_retinopathy/
+│       │   ├── glaucoma/
+│       │   └── normal/
+│       └── Testing/
+│           ├── cataract/
+│           ├── diabetic_retinopathy/
+│           ├── glaucoma/
+│           └── normal/
+```
+
+
 ### 🧿 Eye Diseases Classification (RGB)
 
 * **URL**: [https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification](https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification)
