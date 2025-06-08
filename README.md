@@ -60,9 +60,9 @@ We use two publicly available medical imaging datasets hosted on Kaggle. In our 
 * Balanced dataset
 * Random split: 80% train / 20% test
 
-<p align="center">
-  <img src="https://github.com/AIGeeksGroup/MediAug/blob/main/eye_disease.jpg" width="35%" />
-  <img src="https://github.com/AIGeeksGroup/MediAug/blob/main/eye_tsne.jpg" width="30%" />
+<p align="left">
+  <img src="https://github.com/AIGeeksGroup/MediAug/blob/main/eye_disease.jpg" width="28%" />
+  <img src="https://github.com/AIGeeksGroup/MediAug/blob/main/eye_tsne.jpg" width="35%" />
 </p>
 
 
