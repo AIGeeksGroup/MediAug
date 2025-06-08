@@ -62,7 +62,7 @@ We use two publicly available medical imaging datasets hosted on Kaggle. In our 
 
 <p align="left">
   <img src="https://github.com/AIGeeksGroup/MediAug/blob/main/eye_disease.jpg" width="28%" />
-  <img src="https://github.com/AIGeeksGroup/MediAug/blob/main/eye_tsne.jpg" width="35%" />
+  <img src="https://github.com/AIGeeksGroup/MediAug/blob/main/eye_tsne.jpg" width="32%" />
 </p>
 
 
