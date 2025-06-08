@@ -74,6 +74,14 @@ The left pie chart shows the class distribution across the four categories, demo
 * Imbalanced dataset
 * Random split: 80% train / 20% test
 
+<p align="left">
+  <img src="https://github.com/AIGeeksGroup/MediAug/blob/main/brain_disease.jpg" width="28%" />
+  <img src="https://github.com/AIGeeksGroup/MediAug/blob/main/brain_tsne.jpg" width="33%" />
+</p>
+
+The pie chart (left) illustrates the class distribution among four tumor categories. The t-SNE plot (right) visualizes the distribution of brain tumor samples in a two-dimensional space, reflecting their separability and overlap in feature space.
+
+
 ---
 
 ## 🏗️ Method Overview
