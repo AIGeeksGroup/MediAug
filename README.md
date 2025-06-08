@@ -173,10 +173,11 @@ Side-by-side augmentation previews:
 
 ## 🧠 Model Zoo
 
-| Model     | Dataset | Aug     | Accuracy | Link                                                         |
-| --------- | ------- | ------- | -------- | ------------------------------------------------------------ |
-| ResNet-50 | Eye     | YOCO    | 91.60%   | [Download](https://github.com/AIGeeksGroup/MediAug/releases) |
-| ViT-B     | Brain   | SnapMix | 99.44%   | [Download](https://github.com/AIGeeksGroup/MediAug/releases) |
+| Model     | Dataset | Aug     | Accuracy |
+| --------- | ------- | ------- | -------- |
+| ResNet-50 | Eye     | YOCO    | 91.60%   |
+| ViT-B     | Brain   | SnapMix | 99.44%   |
+
 
 ---
 
