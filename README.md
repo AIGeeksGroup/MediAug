@@ -60,10 +60,11 @@ We use two publicly available medical imaging datasets hosted on Kaggle. In our 
 * Balanced dataset
 * Random split: 80% train / 20% test
 
-<p float="left">
-  <img src="https://github.com/AIGeeksGroup/MediAug/blob/main/eye_disease.jpg" width="30%" />
-  <img src="https://github.com/AIGeeksGroup/MediAug/blob/main/eye_tsne.jpg" width="33%" />
+<p align="center">
+  <img src="https://github.com/user/repo/blob/main/eye_disease.jpg" width="35%" />
+  <img src="https://github.com/user/repo/blob/main/eye_tsne.jpg" width="30%" />
 </p>
+
 
 
 The left pie chart shows the class distribution across the four categories, demonstrating good class balance. The right t-SNE plot provides a feature-level visualization of the high-dimensional distribution of eye disease samples after dimensionality reduction.
