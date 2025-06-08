@@ -62,10 +62,8 @@ We use two publicly available medical imaging datasets hosted on Kaggle. In our 
 
 <p align="left">
   <img src="https://github.com/AIGeeksGroup/MediAug/blob/main/eye_disease.jpg" width="28%" />
-  <img src="https://github.com/AIGeeksGroup/MediAug/blob/main/eye_tsne.jpg" width="32%" />
+  <img src="https://github.com/AIGeeksGroup/MediAug/blob/main/eye_tsne.jpg" width="33%" />
 </p>
-
-
 
 The left pie chart shows the class distribution across the four categories, demonstrating good class balance. The right t-SNE plot provides a feature-level visualization of the high-dimensional distribution of eye disease samples after dimensionality reduction.
 
