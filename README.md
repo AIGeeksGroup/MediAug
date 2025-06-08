@@ -165,12 +165,6 @@ python train.py --dataset eye --model resnet50 --aug mixup
 
 ---
 
-## 📈 Visualization
-
-Side-by-side augmentation previews:
-
----
-
 ## 🧠 Model Zoo
 
 | Model     | Dataset | Aug     | Accuracy |
