@@ -269,15 +269,6 @@ The following notebooks demonstrate how each augmentation method is applied to a
 
 ---
 
-## 📜 License & Acknowledgements
-
-Released under MIT License. Thanks to:
-
-* Authors of MixUp, CutMix, SnapMix
-* Datasets from Kaggle
-* Pretrained MedConv and JointViT models
-* MIUA 2025 for support
-
 For questions, contact [**y.zhao2@latrobe.edu.au**](mailto:y.zhao2@latrobe.edu.au).
 
 
